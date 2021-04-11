@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mianso-uoc/static/css/main.eb5142d9.chunk.css",
+    "main.js": "/mianso-uoc/static/js/main.62c61d4b.chunk.js",
+    "main.js.map": "/mianso-uoc/static/js/main.62c61d4b.chunk.js.map",
+    "runtime-main.js": "/mianso-uoc/static/js/runtime-main.340d96f4.js",
+    "runtime-main.js.map": "/mianso-uoc/static/js/runtime-main.340d96f4.js.map",
+    "static/css/2.150d169a.chunk.css": "/mianso-uoc/static/css/2.150d169a.chunk.css",
+    "static/js/2.c1d41432.chunk.js": "/mianso-uoc/static/js/2.c1d41432.chunk.js",
+    "static/js/2.c1d41432.chunk.js.map": "/mianso-uoc/static/js/2.c1d41432.chunk.js.map",
+    "index.html": "/mianso-uoc/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/mianso-uoc/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.eb5142d9.chunk.css.map": "/mianso-uoc/static/css/main.eb5142d9.chunk.css.map",
+    "static/js/2.c1d41432.chunk.js.LICENSE.txt": "/mianso-uoc/static/js/2.c1d41432.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.340d96f4.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c1d41432.chunk.js",
+    "static/css/main.eb5142d9.chunk.css",
+    "static/js/main.62c61d4b.chunk.js"
+  ]
+}
